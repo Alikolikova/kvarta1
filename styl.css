@@ -1,14 +1,15 @@
-body{background-color: rgb(227, 255, 253);
+body{background-color: rgba(114, 183, 211, 0.747);
      font-family: Arial, Helvetica, sans-serif;
-	color: rgb(0, 47, 100);}
+	color: rgb(13, 0, 73);}
 h1{text-align: center;}
-header{background-color: rgb(255, 236, 213);}
-nav{width: 200px; 
+header{background-color: rgba(241, 210, 71, 0.863);}
+nav{width: 400px; 
     height: 150px;
     line-height: 1.5;}
 p{width: 600px;
   height:100px ;
- margin-left: 150px;}   
+ margin-left: 150px;
+margin-bottom: 10px;}   
 img{width:300px ;
  float: right;
   margin-right:100px ;}  
@@ -19,8 +20,15 @@ section{width: 90%;
 article{width: 30%;
     height: 200px;
     float: left;
-  border: thin solid rgb(0,102,0);
+  border: thin solid rgb(56, 0, 0);
   padding:30px 5px 0 5px ;
   border-radius: 10px;
   margin:0 12px 30px 12px ;}     
 nav li { list-style-type: none;}
+table{width: 600px;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 50px;
+  border-collapse: collapse;}
+  th,td {height: 100px;}
+  h2 {margin-bottom: 100px;}
