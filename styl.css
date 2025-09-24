@@ -11,13 +11,14 @@ p{width: 600px;
  margin-left: 150px;
 margin-bottom: 10px;}   
 img{width:300px ;
- float: right;
-  margin-right:100px ;}  
+ float: left;
+  margin-right:100px ;
+margin-left: 150px;}  
 section{width: 90%;
         height: 300px;
         margin: 0 auto;
      }
-article{width: 30%;
+article{width: 40%;
     height: 200px;
     float: left;
   border: thin solid rgb(56, 0, 0);
